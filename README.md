@@ -7,7 +7,7 @@
 
 ## Demo
 - You can check the live demo from here  
-- link <a href="link">link</a> 
+- <a href="https://grand-stroopwafel-42e178.netlify.app/">https://grand-stroopwafel-42e178.netlify.app/</a> 
  
 ### Technologies used
 
